@@ -32,6 +32,8 @@ O objetivo dessa aplicação é realizar a criação de um E-commerce de vestuar
 - [x] O login da aplicação deve ser concluido em ate 7seg
 - [x] A aplicação deve se mantida em funcionamento 24h/7d por semana. 
 - [x] Todas as listas de dados precisam estar paginadas com 20 itens por página;
+- [x] Ecalabilidade: A aplicação deve se manter em funcionamento mesmo tendo 1000 usuarios simultaneamente.
+- [x] Degradação: A aplicação deve ser capaz de atender 100° requisiçoes por segundo e ignorar a requições acima da 100° para que nao aconteça a degradaçao do tempo de resposta.
 
 
 ## RNs (regras de negócios)
