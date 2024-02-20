@@ -23,14 +23,15 @@ O objetivo dessa aplicação é realizar a criação de um E-commerce de vestuar
 - [x] Deve ser possível o usuário realizar check-in no carrinho;
 - [x] Deve ser possível validar o meio de pagamento do usuário;
 - [x] Deve ser possível check-out;
-
+- [x] A senha do usuário precisa estar criptografada;
+- [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
+- [x] O usuário deve ser identificado por um JWT (JSON Web Token);
 
 ## RNFs (Requisitos não funcionais)
 
-- [x] A senha do usuário precisa estar criptografada;
-- [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
+- [x] O login da aplicação deve ser concluido em ate 7seg
+- [x] A aplicação deve se mantida em funcionamento 24h/7d por semana. 
 - [x] Todas as listas de dados precisam estar paginadas com 20 itens por página;
-- [x] O usuário deve ser identificado por um JWT (JSON Web Token);
 
 
 ## RNs (regras de negócios)
