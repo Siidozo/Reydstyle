@@ -11,7 +11,7 @@ O objetivo dessa aplicação é realizar a criação de um E-commerce de vestuar
 - C#
 - SQL server
 - Azuro
-- MIRO/LUCIDCHART.
+- FIGMA/ MIRO/ LUCIDCHART.
 
 ## RFs (Requisitos funcionais)
 
