@@ -1,18 +1,20 @@
 # Web Aplication 
 
-Reyd_style
+Use-Store
 
 # OBJETIVO:
 
 O objetivo dessa aplicação é realizar a criação de um E-commerce de vestuarios interativo e responsivo que possa suprir a demanda do cliente.
 
-# Liguagens de Densenvolvimento Front-End:
+# Tecnologisas de Densenvolvimento Front-End:
 
-- HTML5;
-- CSS3;
+- HTML5/ CSS3;
 - JavaScript;
+- C#
+- SQL server
+- Azuro
+- MIRO/LUCIDCHART.
 
-  
 ## RFs (Requisitos funcionais)
 
 -  [x] Deve ser possível se cadastrar;
