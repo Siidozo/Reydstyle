@@ -1,6 +1,4 @@
-# Web Aplication 
-
-Use-Store
+# Use-Store
 
 # OBJETIVO:
 
